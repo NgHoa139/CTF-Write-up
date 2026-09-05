@@ -10,4 +10,12 @@
 - Ta tiến hành brute-force user c0ldd bằng file rockyou.txt : wpscan --url http://192.168.52.239/ -U c0ldd -P /home/kali/Downloads/rockyou-master/rockyou.txt
 <img width="854" height="284" alt="image" src="https://github.com/user-attachments/assets/453cc3e4-fa39-4add-8b88-8313592f83b7" />
 
-- Ta có được tài khoản và mật khẩu ta đăng nhập vào trang web 
+- Ta có được tài khoản và mật khẩu ta đăng nhập vào trang web dasboard của admin : 
+<img width="1909" height="869" alt="image" src="https://github.com/user-attachments/assets/5db1f067-0417-4024-b4a0-b58701984d99" />
+
+- Với tài khoản admin ta có thể edit theme phần Header để ta có thể sử dụng CMD :
+<img width="1313" height="634" alt="image" src="https://github.com/user-attachments/assets/bfb82a7a-a755-4bdd-ad3f-96b94099653c" />
+
+<img width="771" height="466" alt="image" src="https://github.com/user-attachments/assets/8424615f-1b95-466e-9464-bd72084d5e2e" />
+
+- 
